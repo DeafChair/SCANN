@@ -1,0 +1,83 @@
+<p align="center">
+  <img src="assets/scann-logo.png" width="220" alt="SCANN Logo">
+</p>
+
+<h1 align="center">SCANN</h1>
+
+<p align="center">
+  <b>Supernova Candidate Analysis via Neural Networks</b><br>
+  基于神经网络的超新星候选体分析
+</p>
+
+<p align="center">
+  <img alt="Astronomy" src="https://img.shields.io/badge/field-Astronomy-163866?style=flat-square">
+  <img alt="Transient Search" src="https://img.shields.io/badge/focus-Transient%20Search-0E8DFF?style=flat-square">
+  <img alt="Supernovae" src="https://img.shields.io/badge/target-Supernovae-163866?style=flat-square">
+  <img alt="Cataclysmic Variables" src="https://img.shields.io/badge/target-Cataclysmic%20Variables-0E8DFF?style=flat-square">
+</p>
+
+<p align="center">
+  <a href="README.md">English</a> · <b>简体中文</b>
+</p>
+
+---
+
+SCANN 是一个独立的天文瞬变源搜索团队，通过自动筛选、人工核验与后随观测，发现并研究超新星、激变变星及其它瞬变候选体。
+
+SCANN 的发现包括三颗已完成光谱分类的超新星，以及若干已被公开天文数据库收录的激变变星系统。
+
+## 项目简介
+
+SCANN 关注天文瞬变源的搜索与研究，包括超新星与激变变星。项目将自动候选体筛选与人工核验、后随观测相结合，确认的结果记录在 TNS（Transient Name Server，瞬变源名称服务器）与 AAVSO VSX（国际变星索引）等公开天文数据库中。
+
+团队工作包括：
+
+- 天文瞬变源搜索，包括超新星搜寻
+- 激变变星及相关变星的证认与研究
+- 候选体核验与复核
+- 后随观测，条件允许时开展测光与光谱后随
+- 通过公开天文记录发布已确认的结果
+
+本仓库是本项目的公开主页，用于说明 SCANN 是谁、团队在做什么，以及哪些成果已被公开记录。本仓库不是本项目搜索软件、模型或方法的公开发布。
+
+## 团队成员
+
+- **Ezhar Elijan** / 伊兹哈尔·伊力江
+- **Yaozhang Ou** / 区耀樟
+- **Jiashuo Zhang** / 张家硕
+- **Jingyuan Zhao** / 赵经远
+- **Jiantao Xu** / 徐剑涛
+
+## 科学成果
+
+### 发现
+
+| 发现日期 | 天体 | 坐标 (J2000) | 分类 | 项目编号 | 公开记录 |
+| --- | --- | --- | --- | --- | --- |
+| 2026-03-16 | SN 2026fsf | 11:54:58.107 +69:19:29.22 | SN II | PSP26I | [TNS](https://www.wis-tns.org/object/2026fsf) |
+| 2026-07-02 | AT 2026rej | 22:50:47.36 +10:44:06.8 | 见公开记录 | PSP26L | [TNS](https://www.wis-tns.org/object/2026rej) · [VSX](https://vsx.aavso.org/index.php?view=detail.top&oid=10875928) |
+| 2026-08-11 | AT 2026yoo | 02:26:32.49 +31:56:15.6 | UG | PSP26N | [TNS](https://www.wis-tns.org/object/2026yoo) · [VSX](https://vsx.aavso.org/index.php?view=detail.top&oid=10875983) |
+| 2026-08-19 | AT 2026zgy | 20:03:13.28 +14:10:23.8 | UG | PSP26O | [TNS](https://www.wis-tns.org/object/2026zgy) · [VSX](https://vsx.aavso.org/index.php?view=detail.top&oid=10875987) |
+| 2026-08-19 | SN 2026zkk | 22:45:35.83 +38:33:43.08 | SN Ia-91T-like | PSP26P | [TNS](https://www.wis-tns.org/object/2026zkk) |
+| 2026-08-26 | SN 2026zwj | 02:09:26.85 +37:15:39.3 | SN IIP | PSP26Q | [TNS](https://www.wis-tns.org/object/2026zwj) |
+| 2026-09-13 | AT 2026abmx | 03:23:26.13 +42:48:28.2 | UGSS | PSP26T | [TNS](https://www.wis-tns.org/object/2026abmx) · VSX |
+
+分类一栏按对应公开数据库当前记录的表述给出，本页面不重新判定、也不上调分类等级；公开记录存在混合或暂定性质时，表格如实标注，并以数据库条目为准。`AT 2026abmx` 由 AAVSO VSX 记录为 `UGSS`；由于尚未确认其公开记录标识符，此处暂不给出 VSX 永久链接。
+
+每个天体的更详细公开记录与数据库链接，见 **[docs/discoveries.zh-CN.md](docs/discoveries.zh-CN.md)**。
+
+### NADC 公开报道
+
+- **2026-03-27** — 《NADC运营的PSP项目2026年3月16日发现一颗II型超新星》
+  报道 SN 2026fsf 发现工作的公开文章。[在国家天文科学数据中心阅读](https://nadc.china-vo.org/article/20260326111943)
+
+- **2026-09-08** — 《2026年8月中下旬PSP发现两颗超新星》
+  报道 SN 2026zkk 与 SN 2026zwj 发现工作的公开文章。[在国家天文科学数据中心阅读](https://nadc.china-vo.org/article/20260908114017)
+
+## 技术披露
+
+SCANN 将自动候选体筛选与人工核验、后随分析相结合。自动化工具用于辅助天文瞬变源搜索与候选体核验。
+
+技术实现细节、模型结构、训练数据集以及内部候选体筛选流程均不公开发布。
+
+SCANN 项目材料与标识仅供信息展示之用。除另有说明外，不授予复用本项目内部资产、模型、数据集或流程的任何许可。

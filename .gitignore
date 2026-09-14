@@ -1,0 +1,109 @@
+# SCANN public repository — ignore rules
+#
+# This repository is a presentation layer only: it publishes who SCANN is,
+# what the team works on, and which results are recorded publicly. It never
+# publishes internal implementation, models, data, or credentials.
+#
+# These rules therefore exist to stop internal material from being committed
+# by accident. Deliberately public files (README.md, docs/, CITATION.cff and
+# assets/scann-logo.png) must never match a rule below.
+
+# --- Credentials, keys and tokens -------------------------------------------
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+*.p12
+*.pfx
+*.token
+*token*.json
+*credential*
+*secret*
+*password*
+config.local.*
+*.local.json
+auth.json
+cookies.txt
+
+# --- Internal configuration files (SCANN-local) ------------------------------
+SCANN_config.json
+pipeline_config.json
+*_config.local.json
+
+# --- Model weights and training artifacts -----------------------------------
+*.pth
+*.pt
+*.ckpt
+*.onnx
+*.h5
+*.hdf5
+*.safetensors
+*.pb
+*.tflite
+*.joblib
+*.pkl
+weights/
+checkpoints/
+models/
+runs/
+training/
+
+# --- Datasets, imaging data and observation material ------------------------
+data/
+datasets/
+dataset/
+dataset_auto/
+fits/
+images/
+*.fits
+*.fit
+*.fts
+*.fz
+*.fts.gz
+*.fits.gz
+*.jpg
+*.jpeg
+# NOTE: assets/scann-logo.png is intentionally public and is NOT covered here;
+# do not add a blanket *.png rule to this file.
+observations/
+followup/
+follow-up/
+proposals/
+reports/private/
+
+# --- Local databases, caches and logs ---------------------------------------
+*.sqlite
+*.sqlite3
+*.db
+*.db-shm
+*.db-wal
+*.dat
+cache/
+logs/
+*.log
+*.pid
+*.part
+
+# --- Private / internal trees -----------------------------------------------
+private/
+internal/
+confidential/
+_archive/
+
+# --- Python ----------------------------------------------------------------
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# --- Editors and operating systems -----------------------------------------
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp

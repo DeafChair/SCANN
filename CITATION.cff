@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you refer to SCANN project results, please cite this repository."
+title: "SCANN"
+abstract: >-
+  SCANN (Supernova Candidate Analysis via Neural Networks) is an independent astronomical
+  transient-search team working on the identification and investigation of supernovae,
+  cataclysmic variables, and other transient candidates through automated screening, human
+  verification, and follow-up observations. Discoveries are recorded in public astronomical
+  databases including the Transient Name Server (TNS) and the AAVSO International Variable Star
+  Index (VSX).
+authors:
+  - name: "Ezhar Elijan"
+  - name: "Yaozhang Ou"
+  - name: "Jiashuo Zhang"
+  - name: "Jingyuan Zhao"
+  - name: "Jiantao Xu"
+keywords:
+  - astronomy
+  - transient search
+  - supernovae
+  - cataclysmic variables
+  - time-domain astronomy
