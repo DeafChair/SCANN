@@ -21,21 +21,13 @@
 
 ---
 
-SCANN is an independent astronomical transient-search team focused on identifying and investigating supernovae, cataclysmic variables, and other transient candidates through automated screening, human verification, and follow-up observations.
+SCANN is an independent astronomical transient-search team working on supernovae, cataclysmic variables, and other transient candidates.
 
-SCANN discoveries include three spectroscopically classified supernovae and several cataclysmic-variable systems recorded in public astronomical databases.
+Discoveries so far include three spectroscopically classified supernovae and several cataclysmic-variable systems.
 
 ## About SCANN
 
-SCANN focuses on the search and investigation of astronomical transients, including supernovae and cataclysmic variables. The project combines automated candidate screening with human verification and follow-up observations, with confirmed results recorded in public astronomical databases such as the Transient Name Server (TNS) and the AAVSO International Variable Star Index (VSX).
-
-The team's work covers:
-
-- Astronomical transient search, including supernova search
-- Identification and investigation of cataclysmic variables and related variable stars
-- Candidate verification and review
-- Follow-up observations, with photometric and spectroscopic follow-up when available
-- Reporting of confirmed results through public astronomical records
+Candidates are screened automatically and then verified by team members, with photometric or spectroscopic follow-up when observing time is available. Confirmed objects are reported to public databases including the Transient Name Server (TNS) and the AAVSO International Variable Star Index (VSX).
 
 ## Team
 
@@ -59,9 +51,7 @@ The team's work covers:
 | 2026-08-26 | SN 2026zwj | 02:09:26.85 +37:15:39.3 | SN IIP | PSP26Q | [TNS](https://www.wis-tns.org/object/2026zwj) |
 | 2026-09-13 | AT 2026abmx | 03:23:26.13 +42:48:28.2 | UGSS | PSP26T | [TNS](https://www.wis-tns.org/object/2026abmx) · VSX |
 
-Classifications are as recorded in the corresponding public databases.
-
-A longer record for each object, with its public database links, is kept in **[docs/discoveries.md](docs/discoveries.md)**.
+Detailed records and public database links are in **[docs/discoveries.md](docs/discoveries.md)**.
 
 ### NADC Public Reports
 
@@ -70,7 +60,3 @@ A longer record for each object, with its public database links, is kept in **[d
 
 - **2026-09-08** — 《2026年8月中下旬PSP发现两颗超新星》
   Public report covering the discoveries of SN 2026zkk and SN 2026zwj. [Read on nadc.china-vo.org](https://nadc.china-vo.org/article/20260908114017)
-
-## Technical Disclosure
-
-SCANN combines automated candidate screening with human verification and follow-up analysis. The software, models and data behind the searches are not publicly released.

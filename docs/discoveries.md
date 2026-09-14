@@ -25,7 +25,6 @@ information is recorded here.
 | 2026-08-26 | SN 2026zwj | 02:09:26.85 +37:15:39.3 | SN IIP | PSP26Q |
 | 2026-09-13 | AT 2026abmx | 03:23:26.13 +42:48:28.2 | UGSS | PSP26T |
 
-Classifications are as recorded in the public databases.
 
 ---
 
