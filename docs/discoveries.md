@@ -33,14 +33,14 @@ SCANN 各发现天体的正式发现图与公开数据库记录。汇总表见 [
 | 分类 | SN II |
 | 公开记录 | [TNS 2026fsf](https://www.wis-tns.org/object/2026fsf) |
 
-<table>
+<table width="100%">
 <tr>
-<td align="center">
-<img src="../assets/discoveries/psp26i-discovery.jpg" width="420"><br>
+<td width="50%" align="center">
+<img src="../assets/discoveries/psp26i-discovery.jpg" width="100%"><br>
 <sub>发现图</sub>
 </td>
-<td align="center">
-<img src="../assets/discoveries/psp26i-reference.jpg" width="420"><br>
+<td width="50%" align="center">
+<img src="../assets/discoveries/psp26i-reference.jpg" width="100%"><br>
 <sub>Pan-STARRS1 参考图</sub>
 </td>
 </tr>
@@ -65,14 +65,14 @@ SCANN 各发现天体的正式发现图与公开数据库记录。汇总表见 [
 
 该天体的公开条目没有给出唯一分类，请以 TNS 与 VSX 记录为准。
 
-<table>
+<table width="100%">
 <tr>
-<td align="center">
-<img src="../assets/discoveries/psp26l-discovery.jpg" width="420"><br>
+<td width="50%" align="center">
+<img src="../assets/discoveries/psp26l-discovery.jpg" width="100%"><br>
 <sub>发现图</sub>
 </td>
-<td align="center">
-<img src="../assets/discoveries/psp26l-reference.jpg" width="420"><br>
+<td width="50%" align="center">
+<img src="../assets/discoveries/psp26l-reference.jpg" width="100%"><br>
 <sub>Pan-STARRS1 参考图</sub>
 </td>
 </tr>
@@ -91,14 +91,14 @@ SCANN 各发现天体的正式发现图与公开数据库记录。汇总表见 [
 | 分类 | UG（按 AAVSO VSX 记录） |
 | 公开记录 | [TNS 2026yoo](https://www.wis-tns.org/object/2026yoo) · [AAVSO VSX](https://vsx.aavso.org/index.php?view=detail.top&oid=10875983) |
 
-<table>
+<table width="100%">
 <tr>
-<td align="center">
-<img src="../assets/discoveries/psp26n-discovery.jpg" width="420"><br>
+<td width="50%" align="center">
+<img src="../assets/discoveries/psp26n-discovery.jpg" width="100%"><br>
 <sub>发现图</sub>
 </td>
-<td align="center">
-<img src="../assets/discoveries/psp26n-reference.jpg" width="420"><br>
+<td width="50%" align="center">
+<img src="../assets/discoveries/psp26n-reference.jpg" width="100%"><br>
 <sub>Pan-STARRS1 参考图</sub>
 </td>
 </tr>
@@ -117,14 +117,14 @@ SCANN 各发现天体的正式发现图与公开数据库记录。汇总表见 [
 | 分类 | UG（按 AAVSO VSX 记录） |
 | 公开记录 | [TNS 2026zgy](https://www.wis-tns.org/object/2026zgy) · [AAVSO VSX](https://vsx.aavso.org/index.php?view=detail.top&oid=10875987) |
 
-<table>
+<table width="100%">
 <tr>
-<td align="center">
-<img src="../assets/discoveries/psp26o-discovery.jpg" width="420"><br>
+<td width="50%" align="center">
+<img src="../assets/discoveries/psp26o-discovery.jpg" width="100%"><br>
 <sub>发现图</sub>
 </td>
-<td align="center">
-<img src="../assets/discoveries/psp26o-reference.jpg" width="420"><br>
+<td width="50%" align="center">
+<img src="../assets/discoveries/psp26o-reference.jpg" width="100%"><br>
 <sub>Pan-STARRS1 参考图</sub>
 </td>
 </tr>
@@ -143,14 +143,14 @@ SCANN 各发现天体的正式发现图与公开数据库记录。汇总表见 [
 | 分类 | SN Ia-91T-like |
 | 公开记录 | [TNS 2026zkk](https://www.wis-tns.org/object/2026zkk) |
 
-<table>
+<table width="100%">
 <tr>
-<td align="center">
-<img src="../assets/discoveries/psp26p-discovery.jpg" width="420"><br>
+<td width="50%" align="center">
+<img src="../assets/discoveries/psp26p-discovery.jpg" width="100%"><br>
 <sub>发现图</sub>
 </td>
-<td align="center">
-<img src="../assets/discoveries/psp26p-reference.jpg" width="420"><br>
+<td width="50%" align="center">
+<img src="../assets/discoveries/psp26p-reference.jpg" width="100%"><br>
 <sub>Pan-STARRS1 参考图</sub>
 </td>
 </tr>
@@ -173,14 +173,14 @@ SCANN 各发现天体的正式发现图与公开数据库记录。汇总表见 [
 | 分类 | SN IIP |
 | 公开记录 | [TNS 2026zwj](https://www.wis-tns.org/object/2026zwj) |
 
-<table>
+<table width="100%">
 <tr>
-<td align="center">
-<img src="../assets/discoveries/psp26q-discovery.jpg" width="420"><br>
+<td width="50%" align="center">
+<img src="../assets/discoveries/psp26q-discovery.jpg" width="100%"><br>
 <sub>发现图</sub>
 </td>
-<td align="center">
-<img src="../assets/discoveries/psp26q-reference.jpg" width="420"><br>
+<td width="50%" align="center">
+<img src="../assets/discoveries/psp26q-reference.jpg" width="100%"><br>
 <sub>Pan-STARRS1 参考图</sub>
 </td>
 </tr>
@@ -205,14 +205,14 @@ SCANN 各发现天体的正式发现图与公开数据库记录。汇总表见 [
 
 AAVSO VSX 将该天体记录为 `UGSS`。其 VSX 记录标识符尚未确认，因此此处只提供 TNS 链接。
 
-<table>
+<table width="100%">
 <tr>
-<td align="center">
-<img src="../assets/discoveries/psp26t-discovery.jpg" width="420"><br>
+<td width="50%" align="center">
+<img src="../assets/discoveries/psp26t-discovery.jpg" width="100%"><br>
 <sub>发现图</sub>
 </td>
-<td align="center">
-<img src="../assets/discoveries/psp26t-reference.jpg" width="420"><br>
+<td width="50%" align="center">
+<img src="../assets/discoveries/psp26t-reference.jpg" width="100%"><br>
 <sub>Pan-STARRS1 参考图</sub>
 </td>
 </tr>

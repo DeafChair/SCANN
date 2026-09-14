@@ -33,14 +33,14 @@ Discovery and reference images shown below are reproduced from the corresponding
 | Classification | SN II |
 | Public records | [TNS 2026fsf](https://www.wis-tns.org/object/2026fsf) |
 
-<table>
+<table width="100%">
 <tr>
-<td align="center">
-<img src="../assets/discoveries/psp26i-discovery.jpg" width="420"><br>
+<td width="50%" align="center">
+<img src="../assets/discoveries/psp26i-discovery.jpg" width="100%"><br>
 <sub>Discovery image</sub>
 </td>
-<td align="center">
-<img src="../assets/discoveries/psp26i-reference.jpg" width="420"><br>
+<td width="50%" align="center">
+<img src="../assets/discoveries/psp26i-reference.jpg" width="100%"><br>
 <sub>Pan-STARRS1 reference image</sub>
 </td>
 </tr>
@@ -65,14 +65,14 @@ Public NADC report covering this discovery:
 
 The public entries for this object do not settle on a single classification. See the TNS and VSX records.
 
-<table>
+<table width="100%">
 <tr>
-<td align="center">
-<img src="../assets/discoveries/psp26l-discovery.jpg" width="420"><br>
+<td width="50%" align="center">
+<img src="../assets/discoveries/psp26l-discovery.jpg" width="100%"><br>
 <sub>Discovery image</sub>
 </td>
-<td align="center">
-<img src="../assets/discoveries/psp26l-reference.jpg" width="420"><br>
+<td width="50%" align="center">
+<img src="../assets/discoveries/psp26l-reference.jpg" width="100%"><br>
 <sub>Pan-STARRS1 reference image</sub>
 </td>
 </tr>
@@ -91,14 +91,14 @@ Source: [Xingming Observatory / XOSS](https://xjltp.china-vo.org/psp26l.html)
 | Classification | UG (as recorded by AAVSO VSX) |
 | Public records | [TNS 2026yoo](https://www.wis-tns.org/object/2026yoo) · [AAVSO VSX](https://vsx.aavso.org/index.php?view=detail.top&oid=10875983) |
 
-<table>
+<table width="100%">
 <tr>
-<td align="center">
-<img src="../assets/discoveries/psp26n-discovery.jpg" width="420"><br>
+<td width="50%" align="center">
+<img src="../assets/discoveries/psp26n-discovery.jpg" width="100%"><br>
 <sub>Discovery image</sub>
 </td>
-<td align="center">
-<img src="../assets/discoveries/psp26n-reference.jpg" width="420"><br>
+<td width="50%" align="center">
+<img src="../assets/discoveries/psp26n-reference.jpg" width="100%"><br>
 <sub>Pan-STARRS1 reference image</sub>
 </td>
 </tr>
@@ -117,14 +117,14 @@ Source: [Xingming Observatory / XOSS](https://xjltp.china-vo.org/psp26n.html)
 | Classification | UG (as recorded by AAVSO VSX) |
 | Public records | [TNS 2026zgy](https://www.wis-tns.org/object/2026zgy) · [AAVSO VSX](https://vsx.aavso.org/index.php?view=detail.top&oid=10875987) |
 
-<table>
+<table width="100%">
 <tr>
-<td align="center">
-<img src="../assets/discoveries/psp26o-discovery.jpg" width="420"><br>
+<td width="50%" align="center">
+<img src="../assets/discoveries/psp26o-discovery.jpg" width="100%"><br>
 <sub>Discovery image</sub>
 </td>
-<td align="center">
-<img src="../assets/discoveries/psp26o-reference.jpg" width="420"><br>
+<td width="50%" align="center">
+<img src="../assets/discoveries/psp26o-reference.jpg" width="100%"><br>
 <sub>Pan-STARRS1 reference image</sub>
 </td>
 </tr>
@@ -143,14 +143,14 @@ Source: [Xingming Observatory / XOSS](https://xjltp.china-vo.org/psp26o.html)
 | Classification | SN Ia-91T-like |
 | Public records | [TNS 2026zkk](https://www.wis-tns.org/object/2026zkk) |
 
-<table>
+<table width="100%">
 <tr>
-<td align="center">
-<img src="../assets/discoveries/psp26p-discovery.jpg" width="420"><br>
+<td width="50%" align="center">
+<img src="../assets/discoveries/psp26p-discovery.jpg" width="100%"><br>
 <sub>Discovery image</sub>
 </td>
-<td align="center">
-<img src="../assets/discoveries/psp26p-reference.jpg" width="420"><br>
+<td width="50%" align="center">
+<img src="../assets/discoveries/psp26p-reference.jpg" width="100%"><br>
 <sub>Pan-STARRS1 reference image</sub>
 </td>
 </tr>
@@ -173,14 +173,14 @@ Public NADC report covering this discovery (together with SN 2026zwj):
 | Classification | SN IIP |
 | Public records | [TNS 2026zwj](https://www.wis-tns.org/object/2026zwj) |
 
-<table>
+<table width="100%">
 <tr>
-<td align="center">
-<img src="../assets/discoveries/psp26q-discovery.jpg" width="420"><br>
+<td width="50%" align="center">
+<img src="../assets/discoveries/psp26q-discovery.jpg" width="100%"><br>
 <sub>Discovery image</sub>
 </td>
-<td align="center">
-<img src="../assets/discoveries/psp26q-reference.jpg" width="420"><br>
+<td width="50%" align="center">
+<img src="../assets/discoveries/psp26q-reference.jpg" width="100%"><br>
 <sub>Pan-STARRS1 reference image</sub>
 </td>
 </tr>
@@ -205,14 +205,14 @@ Public NADC report covering this discovery (together with SN 2026zkk):
 
 AAVSO VSX records this object as `UGSS`. Its VSX record identifier has not been confirmed, so only the TNS entry is linked.
 
-<table>
+<table width="100%">
 <tr>
-<td align="center">
-<img src="../assets/discoveries/psp26t-discovery.jpg" width="420"><br>
+<td width="50%" align="center">
+<img src="../assets/discoveries/psp26t-discovery.jpg" width="100%"><br>
 <sub>Discovery image</sub>
 </td>
-<td align="center">
-<img src="../assets/discoveries/psp26t-reference.jpg" width="420"><br>
+<td width="50%" align="center">
+<img src="../assets/discoveries/psp26t-reference.jpg" width="100%"><br>
 <sub>Pan-STARRS1 reference image</sub>
 </td>
 </tr>
