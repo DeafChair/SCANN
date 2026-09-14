@@ -1,15 +1,12 @@
 # 发现成果
 
-本页是 SCANN 已公开报告的瞬变源发现的详细记录。它在 [README](../README.zh-CN.md) 汇总表的基础上，
-补充每个天体的公开数据库链接。
+SCANN 各发现天体的公开数据库记录。汇总表见 [README](../README.zh-CN.md)。
 
 <p align="center">
   <a href="discoveries.md">English</a> · <b>简体中文</b>
 </p>
 
-**收录范围。** 本页所有内容均取自可公开访问的来源：TNS（Transient Name Server）、
-AAVSO VSX（国际变星索引），以及国家天文科学数据中心（NADC）的官方公开报道。本档案不包含内部
-筛选判据、排序或评分信息、模型输出、未公开候选体，以及私有的后随观测资料。
+条目来自 TNS（Transient Name Server）、AAVSO VSX（国际变星索引）以及国家天文科学数据中心（NADC）的官方公开报道，此处仅记录已公开的信息。
 
 *最近核对：2026-09-14。*
 
@@ -25,8 +22,7 @@ AAVSO VSX（国际变星索引），以及国家天文科学数据中心（NADC�
 | 2026-08-26 | SN 2026zwj | 02:09:26.85 +37:15:39.3 | SN IIP | PSP26Q |
 | 2026-09-13 | AT 2026abmx | 03:23:26.13 +42:48:28.2 | UGSS | PSP26T |
 
-分类完全按照公开数据库当前记录的表述转写。公开条目存在混合、历史或暂定性质时，本档案保持保守
-表述，而不主张一个确定类型。
+分类以公开数据库的记录为准。
 
 ---
 
@@ -55,8 +51,7 @@ AAVSO VSX（国际变星索引），以及国家天文科学数据中心（NADC�
 | 项目编号 | PSP26L |
 | 公开记录 | [TNS 2026rej](https://www.wis-tns.org/object/2026rej) · [AAVSO VSX](https://vsx.aavso.org/index.php?view=detail.top&oid=10875928) |
 
-该天体的公开条目目前无法支持一个无歧义的分类。请直接查阅 TNS 与 VSX 记录；本档案不主张任何
-分类。
+该天体的公开条目没有给出唯一分类，请以 TNS 与 VSX 记录为准。
 
 ## AT 2026yoo
 
@@ -118,8 +113,7 @@ AAVSO VSX（国际变星索引），以及国家天文科学数据中心（NADC�
 | 项目编号 | PSP26T |
 | 公开记录 | [TNS 2026abmx](https://www.wis-tns.org/object/2026abmx) · AAVSO VSX |
 
-本天体由 AAVSO VSX 以 `UGSS` 分类收录。此处不给出 VSX 直链，因为其公开记录标识符尚未确认，
-因此仅提供 TNS 条目链接。
+AAVSO VSX 将该天体记录为 `UGSS`。其 VSX 记录标识符尚未确认，因此此处只提供 TNS 链接。
 
 ---
 

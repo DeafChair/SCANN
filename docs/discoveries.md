@@ -1,16 +1,15 @@
 # Discoveries
 
-This page is the detailed public record of SCANN's reported transient discoveries. It expands the
-summary table in the [README](../README.md) with the public database links for each object.
+Public database records for each of SCANN's reported transient discoveries. A summary table is in
+the [README](../README.md).
 
 <p align="center">
   <b>English</b> · <a href="discoveries.zh-CN.md">简体中文</a>
 </p>
 
-**Scope.** Everything here is taken from publicly accessible sources: the Transient Name Server
-(TNS), the AAVSO International Variable Star Index (VSX), and official National Astronomical Data
-Center (NADC) reports. This archive deliberately contains no internal selection criteria, ranking or
-scoring information, model outputs, unpublished candidates, or private follow-up material.
+Entries are drawn from the Transient Name Server (TNS), the AAVSO International Variable Star Index
+(VSX), and official National Astronomical Data Center (NADC) reports. Only publicly available
+information is recorded here.
 
 *Last reviewed: 2026-09-14.*
 
@@ -26,9 +25,7 @@ scoring information, model outputs, unpublished candidates, or private follow-up
 | 2026-08-26 | SN 2026zwj | 02:09:26.85 +37:15:39.3 | SN IIP | PSP26Q |
 | 2026-09-13 | AT 2026abmx | 03:23:26.13 +42:48:28.2 | UGSS | PSP26T |
 
-Classifications are reproduced exactly as they are currently recorded in the public databases. Where
-a public entry is mixed, historical, or provisional, this archive keeps the conservative wording
-rather than asserting a definitive type.
+Classifications are as recorded in the public databases.
 
 ---
 
@@ -57,8 +54,8 @@ Public NADC report covering this discovery:
 | Project designation | PSP26L |
 | Public records | [TNS 2026rej](https://www.wis-tns.org/object/2026rej) · [AAVSO VSX](https://vsx.aavso.org/index.php?view=detail.top&oid=10875928) |
 
-The public entries for this object do not currently support a single unambiguous classification.
-Readers should consult the TNS and VSX records directly; no classification is asserted here.
+The public entries for this object do not settle on a single classification. See the TNS and VSX
+records.
 
 ## AT 2026yoo
 
@@ -120,9 +117,8 @@ Public NADC report covering this discovery (together with SN 2026zkk):
 | Project designation | PSP26T |
 | Public records | [TNS 2026abmx](https://www.wis-tns.org/object/2026abmx) · AAVSO VSX |
 
-This object is recorded by AAVSO VSX under the classification `UGSS`. No direct VSX link is given
-here, because a stable public record identifier for it has not been confirmed. Only the TNS entry is
-linked.
+AAVSO VSX records this object as `UGSS`. Its VSX record identifier has not been confirmed, so only
+the TNS entry is linked.
 
 ---
 

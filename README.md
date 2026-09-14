@@ -37,8 +37,6 @@ The team's work covers:
 - Follow-up observations, with photometric and spectroscopic follow-up when available
 - Reporting of confirmed results through public astronomical records
 
-This repository is the project's public home. It documents who SCANN is, what the team works on, and which results have been recorded publicly. It is not a release of the project's search software, models, or methods.
-
 ## Team
 
 - **Ezhar Elijan** / 伊兹哈尔·伊力江
@@ -61,7 +59,7 @@ This repository is the project's public home. It documents who SCANN is, what th
 | 2026-08-26 | SN 2026zwj | 02:09:26.85 +37:15:39.3 | SN IIP | PSP26Q | [TNS](https://www.wis-tns.org/object/2026zwj) |
 | 2026-09-13 | AT 2026abmx | 03:23:26.13 +42:48:28.2 | UGSS | PSP26T | [TNS](https://www.wis-tns.org/object/2026abmx) · VSX |
 
-Classifications are given as currently recorded in the corresponding public databases. They are not re-assessed or upgraded here; where the public record is mixed or provisional, the table says so and readers should consult the database entry directly. `AT 2026abmx` is recorded by AAVSO VSX as `UGSS`; no stable public VSX permalink is listed for it because its record identifier has not been confirmed.
+Classifications are as recorded in the corresponding public databases.
 
 A longer record for each object, with its public database links, is kept in **[docs/discoveries.md](docs/discoveries.md)**.
 
@@ -75,8 +73,4 @@ A longer record for each object, with its public database links, is kept in **[d
 
 ## Technical Disclosure
 
-SCANN combines automated candidate screening with human verification and follow-up analysis. Automated tools are used to assist astronomical transient searches and candidate verification.
-
-Technical implementation details, model architectures, training datasets, and internal candidate-selection pipelines are not publicly released.
-
-SCANN project materials and branding are provided for informational purposes. Unless otherwise stated, no permission is granted to reuse internal project assets, models, datasets, or pipelines.
+SCANN combines automated candidate screening with human verification and follow-up analysis. The software, models and data behind the searches are not publicly released.
