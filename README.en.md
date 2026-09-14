@@ -21,7 +21,7 @@
 
 ---
 
-SCANN is an independent astronomical transient-search team working on supernovae, cataclysmic variables, and other transient candidates.
+SCANN is an independently operated astronomical transient-search team, primarily working with observational data from the Popular Supernova Project (PSP) operated by Xingming Observatory, and studying supernovae, cataclysmic variables, and other transient candidates.
 
 Discoveries so far include three spectroscopically classified supernovae and several cataclysmic-variable systems.
 
@@ -34,7 +34,6 @@ Candidates are screened automatically and then verified by team members, with ph
 - **Ezhar Elijan** / 伊兹哈尔·伊力江
 - **Yaozhang Ou** / 区耀樟
 - **Jiashuo Zhang** / 张家硕
-- **Jingyuan Zhao** / 赵经远
 - **Jiantao Xu** / 徐剑涛
 
 ## Scientific Outputs
