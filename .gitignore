@@ -66,6 +66,14 @@ images/
 *.jpeg
 # NOTE: assets/scann-logo.png is intentionally public and is NOT covered here;
 # do not add a blanket *.png rule to this file.
+#
+# The official discovery/reference images ARE intentionally public and must be
+# committed. The rules above would otherwise silently ignore them, so they are
+# re-included explicitly (a negation always overrides an earlier exclusion).
+!assets/discoveries/*.jpg
+!assets/discoveries/*.jpeg
+!assets/discoveries/*.png
+!assets/discoveries/*.webp
 observations/
 followup/
 follow-up/

@@ -51,7 +51,7 @@ Candidates are screened automatically and then verified by team members, with ph
 | 2026-08-26 | SN 2026zwj | 02:09:26.85 +37:15:39.3 | SN IIP | PSP26Q | [TNS](https://www.wis-tns.org/object/2026zwj) |
 | 2026-09-13 | AT 2026abmx | 03:23:26.13 +42:48:28.2 | UGSS | PSP26T | [TNS](https://www.wis-tns.org/object/2026abmx) · VSX |
 
-Detailed records and public database links are in **[docs/discoveries.en.md](docs/discoveries.en.md)**.
+See the [full discovery archive](docs/discoveries.en.md) for official discovery images and public records.
 
 ### NADC Public Reports
 

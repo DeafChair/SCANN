@@ -52,7 +52,7 @@ SCANN 是一个独立的天文瞬变源搜索团队，研究超新星、激变�
 | 2026-08-26 | SN 2026zwj | 02:09:26.85 +37:15:39.3 | SN IIP | PSP26Q | [TNS](https://www.wis-tns.org/object/2026zwj) |
 | 2026-09-13 | AT 2026abmx | 03:23:26.13 +42:48:28.2 | UGSS | PSP26T | [TNS](https://www.wis-tns.org/object/2026abmx) · VSX |
 
-各天体的详细记录与公开数据库链接见 **[docs/discoveries.md](docs/discoveries.md)**。
+正式发现图与公开记录见 **[完整发现档案](docs/discoveries.md)**。
 
 ### NADC 公开报道
 
