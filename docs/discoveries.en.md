@@ -91,14 +91,14 @@ Source: [Xingming Observatory / XOSS](https://xjltp.china-vo.org/psp26l.html)
 | --- | --- |
 | Discovery date | 2026-08-03 |
 | Coordinates (J2000) | 02:06:32.80 +41:10:49.5 |
-| Classification | ROT |
-| Other names | ZTF J020632.80+411049.5 · Gaia DR3 345371858010009728 |
-| Period | 7.582 d |
-| Public records | AAVSO VSX |
+| Classification | ROT (as recorded by AAVSO VSX) |
+| Other names | ZTF J020632.81+411049.5 · 2MASS J02063280+4110495 · Gaia DR3 345371858010009728 |
+| Period | 7.579 d |
+| Public records | [AAVSO VSX](https://vsx.aavso.org/index.php?view=detail.top&oid=10876440) |
 
 ZTF public data (bands g and i, 768 photometric points over a 7.38-year baseline) show a
-significant long-period signal at 7.58 d with phase drift between seasons, recorded here as a
-rotational variable (ROT). Its VSX record identifier has not been confirmed, so no link is given.
+significant long-period signal at 7.58 d with phase drift between seasons, consistent with a
+rotational variable (ROT). VSX records a spectral type of G and a magnitude range of 17.40 – 17.67 r.
 
 <table width="100%">
 <tr>
@@ -235,10 +235,10 @@ Public NADC report covering this discovery (together with SN 2026zkk):
 | Coordinates (J2000) | 03:02:00.15 +41:35:36.19 |
 | Classification | BY+UV |
 | Period | 51.2 d |
-| Public records | AAVSO VSX |
+| Public records | — (not yet catalogued) |
 
 ZTF public data show a variability signal at 51.2 d, recorded here as a combined BY Dra + UV Cet
-type variable (BY+UV). Its VSX record identifier has not been confirmed, so no link is given.
+type variable (BY+UV). The object is not yet catalogued in AAVSO VSX.
 
 <table width="100%">
 <tr>
@@ -262,9 +262,9 @@ type variable (BY+UV). Its VSX record identifier has not been confirmed, so no l
 | Discovery date | 2026-09-13 |
 | Coordinates (J2000) | 03:23:26.13 +42:48:28.2 |
 | Classification | UGSS (as recorded by AAVSO VSX) |
-| Public records | [TNS 2026abmx](https://www.wis-tns.org/object/2026abmx) · AAVSO VSX |
+| Public records | [TNS 2026abmx](https://www.wis-tns.org/object/2026abmx) · [AAVSO VSX](https://vsx.aavso.org/index.php?view=detail.top&oid=10876035) |
 
-AAVSO VSX records this object as `UGSS`. Its VSX record identifier has not been confirmed, so only the TNS entry is linked.
+AAVSO VSX records this object as `UGSS`, with a magnitude range of 18.6 – 21.3 g.
 
 <table width="100%">
 <tr>
@@ -314,6 +314,6 @@ Source: [Xingming Observatory / XOSS](https://xjltp.china-vo.org/psp26v.html)
 | Source | Coverage |
 | --- | --- |
 | [Transient Name Server (TNS)](https://www.wis-tns.org/) | Object registration, reporting, and classification records for all objects above |
-| [AAVSO International Variable Star Index (VSX)](https://vsx.aavso.org/) | Variable-star records for AT 2026rej, AT 2026yoo, AT 2026zgy, AT 2026abmx, PSPV 37 and PSPV 38 |
+| [AAVSO International Variable Star Index (VSX)](https://vsx.aavso.org/) | Variable-star records for AT 2026rej, AT 2026yoo, AT 2026zgy, AT 2026abmx and PSPV 37 |
 | [National Astronomical Data Center (NADC)](https://nadc.china-vo.org/) | Official public reports listed above |
 | [Xingming Observatory / XOSS](https://xjltp.china-vo.org/) | Discovery and reference images listed above |

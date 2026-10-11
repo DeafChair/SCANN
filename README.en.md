@@ -44,13 +44,13 @@ Candidates are screened automatically and then verified by team members, with ph
 | --- | --- | --- | --- | --- | --- |
 | 2026-03-16 | SN 2026fsf | 11:54:58.107 +69:19:29.22 | SN II | PSP26I | [TNS](https://www.wis-tns.org/object/2026fsf) |
 | 2026-07-02 | AT 2026rej | 22:50:47.36 +10:44:06.8 | See public record | PSP26L | [TNS](https://www.wis-tns.org/object/2026rej) · [VSX](https://vsx.aavso.org/index.php?view=detail.top&oid=10875928) |
-| 2026-08-03 | PSPV 37 | 02:06:32.80 +41:10:49.5 | ROT | PSPV 37 | AAVSO VSX |
+| 2026-08-03 | PSPV 37 | 02:06:32.80 +41:10:49.5 | ROT | PSPV 37 | [VSX](https://vsx.aavso.org/index.php?view=detail.top&oid=10876440) |
 | 2026-08-11 | AT 2026yoo | 02:26:32.49 +31:56:15.6 | UG | PSP26N | [TNS](https://www.wis-tns.org/object/2026yoo) · [VSX](https://vsx.aavso.org/index.php?view=detail.top&oid=10875983) |
 | 2026-08-19 | AT 2026zgy | 20:03:13.28 +14:10:23.8 | UG | PSP26O | [TNS](https://www.wis-tns.org/object/2026zgy) · [VSX](https://vsx.aavso.org/index.php?view=detail.top&oid=10875987) |
 | 2026-08-19 | SN 2026zkk | 22:45:35.83 +38:33:43.08 | SN Ia-91T-like | PSP26P | [TNS](https://www.wis-tns.org/object/2026zkk) |
 | 2026-08-26 | SN 2026zwj | 02:09:26.85 +37:15:39.3 | SN IIP | PSP26Q | [TNS](https://www.wis-tns.org/object/2026zwj) |
-| 2026-09-12 | PSPV 38 | 03:02:00.15 +41:35:36.19 | BY+UV | PSPV 38 | AAVSO VSX |
-| 2026-09-13 | AT 2026abmx | 03:23:26.13 +42:48:28.2 | UGSS | PSP26T | [TNS](https://www.wis-tns.org/object/2026abmx) · VSX |
+| 2026-09-12 | PSPV 38 | 03:02:00.15 +41:35:36.19 | BY+UV | PSPV 38 | — (not yet catalogued) |
+| 2026-09-13 | AT 2026abmx | 03:23:26.13 +42:48:28.2 | UGSS | PSP26T | [TNS](https://www.wis-tns.org/object/2026abmx) · [VSX](https://vsx.aavso.org/index.php?view=detail.top&oid=10876035) |
 | 2026-09-28 | AT 2026adcx | 08:38:23.48 +70:03:07.7 | SN candidate | PSP26V | [TNS](https://www.wis-tns.org/object/2026adcx) |
 
 See the [full discovery archive](docs/discoveries.en.md) for official discovery images and public records.
