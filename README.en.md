@@ -52,6 +52,7 @@ Candidates are screened automatically and then verified by team members, with ph
 | 2026-09-12 | PSPV 38 | 03:02:00.15 +41:35:36.19 | BY+UV | PSPV 38 | — (not yet catalogued) |
 | 2026-09-13 | AT 2026abmx | 03:23:26.13 +42:48:28.2 | UGSS | PSP26T | [TNS](https://www.wis-tns.org/object/2026abmx) · [VSX](https://vsx.aavso.org/index.php?view=detail.top&oid=10876035) |
 | 2026-09-28 | AT 2026adcx | 08:38:23.48 +70:03:07.7 | SN candidate | PSP26V | [TNS](https://www.wis-tns.org/object/2026adcx) |
+| 2026-10-08 | TCP J00381501+4114472 | 00:38:14.97 +41:14:47.3 | UV | PSP26X | [VSX](https://vsx.aavso.org/index.php?view=detail.top&oid=10876454) |
 
 See the [full discovery archive](docs/discoveries.en.md) for official discovery images and public records.
 
