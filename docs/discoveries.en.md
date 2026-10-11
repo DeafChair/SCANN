@@ -8,7 +8,7 @@ Official discovery images and public database records for each of SCANN's report
 
 Discovery and reference images shown below are reproduced from the corresponding public Xingming Observatory / XOSS object pages.
 
-*Last reviewed: 2026-09-14.*
+*Last reviewed: 2026-10-10.*
 
 ## Summary
 
@@ -16,11 +16,14 @@ Discovery and reference images shown below are reproduced from the corresponding
 | --- | --- | --- | --- | --- |
 | 2026-03-16 | SN 2026fsf | 11:54:58.107 +69:19:29.22 | SN II | PSP26I |
 | 2026-07-02 | AT 2026rej | 22:50:47.36 +10:44:06.8 | See public record | PSP26L |
+| 2026-08-03 | PSPV 37 | 02:06:32.80 +41:10:49.5 | ROT | PSPV 37 |
 | 2026-08-11 | AT 2026yoo | 02:26:32.49 +31:56:15.6 | UG | PSP26N |
 | 2026-08-19 | AT 2026zgy | 20:03:13.28 +14:10:23.8 | UG | PSP26O |
 | 2026-08-19 | SN 2026zkk | 22:45:35.83 +38:33:43.08 | SN Ia-91T-like | PSP26P |
 | 2026-08-26 | SN 2026zwj | 02:09:26.85 +37:15:39.3 | SN IIP | PSP26Q |
+| 2026-09-12 | PSPV 38 | 03:02:00.15 +41:35:36.19 | BY+UV | PSPV 38 |
 | 2026-09-13 | AT 2026abmx | 03:23:26.13 +42:48:28.2 | UGSS | PSP26T |
+| 2026-09-28 | AT 2026adcx | 08:38:23.48 +70:03:07.7 | SN candidate | PSP26V |
 
 ---
 
@@ -79,6 +82,36 @@ The public entries for this object do not settle on a single classification. See
 </table>
 
 Source: [Xingming Observatory / XOSS](https://xjltp.china-vo.org/psp26l.html)
+
+---
+
+## PSPV 37
+
+|  |  |
+| --- | --- |
+| Discovery date | 2026-08-03 |
+| Coordinates (J2000) | 02:06:32.80 +41:10:49.5 |
+| Classification | ROT |
+| Other names | ZTF J020632.80+411049.5 · Gaia DR3 345371858010009728 |
+| Period | 7.582 d |
+| Public records | AAVSO VSX |
+
+ZTF public data (bands g and i, 768 photometric points over a 7.38-year baseline) show a
+significant long-period signal at 7.58 d with phase drift between seasons, recorded here as a
+rotational variable (ROT). Its VSX record identifier has not been confirmed, so no link is given.
+
+<table width="100%">
+<tr>
+<td width="50%" align="center">
+<img src="../assets/discoveries/pspv37-light-curve.png" width="100%"><br>
+<sub>Light curve (ZTF g / i)</sub>
+</td>
+<td width="50%" align="center">
+<img src="../assets/discoveries/pspv37-phase-plot.png" width="100%"><br>
+<sub>Phase plot (P = 7.579 d, epoch 2459774.961)</sub>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -194,6 +227,34 @@ Public NADC report covering this discovery (together with SN 2026zkk):
 
 ---
 
+## PSPV 38
+
+|  |  |
+| --- | --- |
+| Discovery date | 2026-09-12 |
+| Coordinates (J2000) | 03:02:00.15 +41:35:36.19 |
+| Classification | BY+UV |
+| Period | 51.2 d |
+| Public records | AAVSO VSX |
+
+ZTF public data show a variability signal at 51.2 d, recorded here as a combined BY Dra + UV Cet
+type variable (BY+UV). Its VSX record identifier has not been confirmed, so no link is given.
+
+<table width="100%">
+<tr>
+<td width="50%" align="center">
+<img src="../assets/discoveries/pspv38-light-curve.png" width="100%"><br>
+<sub>Light curve (ZTF g / i)</sub>
+</td>
+<td width="50%" align="center">
+<img src="../assets/discoveries/pspv38-phase-plot.png" width="100%"><br>
+<sub>Phase plot (P = 51.2 d, epoch 2458865)</sub>
+</td>
+</tr>
+</table>
+
+---
+
 ## AT 2026abmx — PSP26T
 
 |  |  |
@@ -222,11 +283,37 @@ Source: [Xingming Observatory / XOSS](https://xjltp.china-vo.org/psp26t.html)
 
 ---
 
+## AT 2026adcx — PSP26V
+
+|  |  |
+| --- | --- |
+| Discovery date | 2026-09-28 |
+| Coordinates (J2000) | 08:38:23.48 +70:03:07.7 |
+| Classification | SN candidate |
+| Public records | [TNS 2026adcx](https://www.wis-tns.org/object/2026adcx) |
+
+<table width="100%">
+<tr>
+<td width="50%" align="center">
+<img src="../assets/discoveries/psp26v-discovery.jpg" width="100%"><br>
+<sub>Discovery image</sub>
+</td>
+<td width="50%" align="center">
+<img src="../assets/discoveries/psp26v-reference.jpg" width="100%"><br>
+<sub>Pan-STARRS1 reference image</sub>
+</td>
+</tr>
+</table>
+
+Source: [Xingming Observatory / XOSS](https://xjltp.china-vo.org/psp26v.html)
+
+---
+
 ## Public references
 
 | Source | Coverage |
 | --- | --- |
 | [Transient Name Server (TNS)](https://www.wis-tns.org/) | Object registration, reporting, and classification records for all objects above |
-| [AAVSO International Variable Star Index (VSX)](https://vsx.aavso.org/) | Variable-star records for AT 2026rej, AT 2026yoo, AT 2026zgy, AT 2026abmx |
+| [AAVSO International Variable Star Index (VSX)](https://vsx.aavso.org/) | Variable-star records for AT 2026rej, AT 2026yoo, AT 2026zgy, AT 2026abmx, PSPV 37 and PSPV 38 |
 | [National Astronomical Data Center (NADC)](https://nadc.china-vo.org/) | Official public reports listed above |
 | [Xingming Observatory / XOSS](https://xjltp.china-vo.org/) | Discovery and reference images listed above |
