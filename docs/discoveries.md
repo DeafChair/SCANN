@@ -8,7 +8,7 @@ SCANN 各发现天体的正式发现图与公开数据库记录。汇总表见 [
 
 下列发现图与参考图来自对应的星明天文台 / XOSS 公开目标页面。
 
-*最近核对：2026-10-10。*
+*最近核对：2026-10-11。*
 
 ## 汇总
 
@@ -24,6 +24,7 @@ SCANN 各发现天体的正式发现图与公开数据库记录。汇总表见 [
 | 2026-09-12 | PSPV 38 | 03:02:00.15 +41:35:36.19 | BY+UV | PSPV 38 |
 | 2026-09-13 | AT 2026abmx | 03:23:26.13 +42:48:28.2 | UGSS | PSP26T |
 | 2026-09-28 | AT 2026adcx | 08:38:23.48 +70:03:07.7 | SN 候选体 | PSP26V |
+| 2026-10-08 | TCP J00381501+4114472 | 00:38:14.97 +41:14:47.3 | UV | PSP26X |
 
 ---
 
@@ -308,11 +309,39 @@ AAVSO VSX 将该天体记录为 `UGSS`，星等范围 18.6 – 21.3 g。
 
 ---
 
+## TCP J00381501+4114472 — PSP26X
+
+|  |  |
+| --- | --- |
+| 发现日期 | 2026-10-08 |
+| 坐标 (J2000) | 00:38:14.97 +41:14:47.3 |
+| 分类 | UV（按 AAVSO VSX 记录） |
+| 公开记录 | [CBAT-TOCP TCP J00381501+4114472](http://www.cbat.eps.harvard.edu/unconf/followups/J00381501+4114472.html) · [AAVSO VSX](https://vsx.aavso.org/index.php?view=detail.top&oid=10876454) |
+
+AAVSO VSX 将该天体记录为 `UV`，星等范围 17.7 CV – 20.8 r。
+
+<table width="100%">
+<tr>
+<td width="50%" align="center">
+<img src="https://xjltp.china-vo.org/wp-content/uploads/2026/10/Discovery-Image-PSP26X.jpg" width="100%"><br>
+<sub>发现图</sub>
+</td>
+<td width="50%" align="center">
+<img src="https://xjltp.china-vo.org/wp-content/uploads/2026/10/PanSTARRS-1-Image-PSP26X.jpg" width="100%"><br>
+<sub>Pan-STARRS1 参考图</sub>
+</td>
+</tr>
+</table>
+
+来源：[星明天文台 / XOSS](https://xjltp.china-vo.org/psp26x.html)
+
+---
+
 ## 公开参考来源
 
 | 来源 | 覆盖内容 |
 | --- | --- |
 | [Transient Name Server (TNS)](https://www.wis-tns.org/) | 上述全部天体的登记、报告与分类记录 |
-| [AAVSO International Variable Star Index (VSX)](https://vsx.aavso.org/) | AT 2026rej、AT 2026yoo、AT 2026zgy、AT 2026abmx 与 PSPV 37 的变星记录 |
+| [AAVSO International Variable Star Index (VSX)](https://vsx.aavso.org/) | AT 2026rej、AT 2026yoo、AT 2026zgy、AT 2026abmx、TCP J00381501+4114472 与 PSPV 37 的变星记录 |
 | [国家天文科学数据中心 (NADC)](https://nadc.china-vo.org/) | 上列官方公开报道 |
 | [星明天文台 / XOSS](https://xjltp.china-vo.org/) | 上列发现图与参考图 |
