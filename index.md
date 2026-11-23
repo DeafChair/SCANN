@@ -2,7 +2,7 @@
 title: 巡天发现档案
 layout: minimal
 permalink: /
-description: "星明天文台 SCANN 团队的超新星、激变变星与瞬变源发现档案。"
+description: "SCANN 是一个独立运行的天文瞬变源搜索团队。"
 ---
 
 <div class="hero">
@@ -16,11 +16,24 @@ description: "星明天文台 SCANN 团队的超新星、激变变星与瞬变�
   </p>
 </div>
 
-SCANN 是星明天文台（Xingming Observatory）的巡天与瞬变源搜索团队，处理 PSP / XOSS
-巡天数据，寻找超新星、激变变星及其它瞬变候选体。这里汇总团队署名的公开发现，每条都附
-发现图、Pan-STARRS1 参考图和 TNS / VSX 记录。
+SCANN 是一个独立运行的天文瞬变源搜索团队，主要处理星明天文台公众超新星搜寻项目（PSP）的观测数据，研究超新星、激变变星及其它瞬变候选体。
 
-## 发现
+目前已发现三颗完成光谱分类的超新星，以及若干激变变星系统。
+
+## 项目简介
+
+候选体先经自动筛选，再由团队成员人工核验；观测时间允许时会开展测光或光谱后随观测。确认的天体提交到公开数据库，包括 TNS（Transient Name Server）与 AAVSO VSX（国际变星索引）。
+
+## 团队成员
+
+- **Ezhar Elijan** / 伊兹哈尔·伊力江
+- **Yaozhang Ou** / 区耀樟
+- **Jiashuo Zhang** / 张家硕
+- **Jiantao Xu** / 徐剑涛
+
+## 科学成果
+
+### 发现
 
 | 发现日期 | 天体 | 坐标 (J2000) | 分类 | 项目编号 | 公开记录 |
 | --- | --- | --- | --- | --- | --- |
@@ -39,14 +52,10 @@ SCANN 是星明天文台（Xingming Observatory）的巡天与瞬变源搜索团
 
 正式发现图与公开记录见 **[完整发现档案](docs/discoveries.html)**。
 
-## 公开报道
+### NADC 公开报道
 
-- **2026-03-27** — 《NADC运营的PSP项目2026年3月16日发现一颗II型超新星》 — [国家天文科学数据中心](https://nadc.china-vo.org/article/20260326111943)
-- **2026-09-08** — 《2026年8月中下旬PSP发现两颗超新星》 — [国家天文科学数据中心](https://nadc.china-vo.org/article/20260908114017)
+- **2026-03-27** — 《NADC运营的PSP项目2026年3月16日发现一颗II型超新星》
+  报道 SN 2026fsf 发现工作的公开文章。[在国家天文科学数据中心阅读](https://nadc.china-vo.org/article/20260326111943)
 
-## 相关链接
-
-- [GitHub 源码仓库](https://github.com/DeafChair/SCANN)
-- [星明天文台 / XOSS](https://xjltp.china-vo.org/)
-- [Transient Name Server (TNS)](https://www.wis-tns.org/)
-- [AAVSO VSX](https://vsx.aavso.org/)
+- **2026-09-08** — 《2026年8月中下旬PSP发现两颗超新星》
+  报道 SN 2026zkk 与 SN 2026zwj 发现工作的公开文章。[在国家天文科学数据中心阅读](https://nadc.china-vo.org/article/20260908114017)
