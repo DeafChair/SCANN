@@ -15,7 +15,7 @@ Discovery and reference images shown below are reproduced from the corresponding
 | Date | Object | Coordinates (J2000) | Classification | Project ID |
 | --- | --- | --- | --- | --- |
 | 2026-03-16 | SN 2026fsf | 11:54:58.107 +69:19:29.22 | SN II | PSP26I |
-| 2026-07-02 | AT 2026rej | 22:50:47.36 +10:44:06.8 | See public record | PSP26L |
+| 2026-07-02 | AT 2026rej | 22:50:47.36 +10:44:06.8 | SN\|UG | PSP26L |
 | 2026-08-03 | PSPV 37 | 02:06:32.80 +41:10:49.5 | ROT | PSPV 37 |
 | 2026-08-11 | AT 2026yoo | 02:26:32.49 +31:56:15.6 | UG | PSP26N |
 | 2026-08-19 | AT 2026zgy | 20:03:13.28 +14:10:23.8 | UG | PSP26O |
@@ -65,10 +65,8 @@ Public NADC report covering this discovery:
 | --- | --- |
 | Discovery date | 2026-07-02 |
 | Coordinates (J2000) | 22:50:47.36 +10:44:06.8 |
-| Classification | See public record |
+| Classification | SN\|UG |
 | Public records | [TNS 2026rej](https://www.wis-tns.org/object/2026rej) · [AAVSO VSX](https://vsx.aavso.org/index.php?view=detail.top&oid=10875928) |
-
-The public entries for this object do not settle on a single classification. See the TNS and VSX records.
 
 <table width="100%">
 <tr>
@@ -93,7 +91,7 @@ Source: [Xingming Observatory / XOSS](https://xjltp.china-vo.org/psp26l.html)
 | --- | --- |
 | Discovery date | 2026-08-03 |
 | Coordinates (J2000) | 02:06:32.80 +41:10:49.5 |
-| Classification | ROT (as recorded by AAVSO VSX) |
+| Classification | ROT |
 | Other names | ZTF J020632.81+411049.5 · 2MASS J02063280+4110495 · Gaia DR3 345371858010009728 |
 | Period | 7.579 d |
 | Public records | [AAVSO VSX](https://vsx.aavso.org/index.php?view=detail.top&oid=10876440) |
@@ -123,7 +121,7 @@ rotational variable (ROT). VSX records a spectral type of G and a magnitude rang
 | --- | --- |
 | Discovery date | 2026-08-11 |
 | Coordinates (J2000) | 02:26:32.49 +31:56:15.6 |
-| Classification | UG (as recorded by AAVSO VSX) |
+| Classification | UG |
 | Public records | [TNS 2026yoo](https://www.wis-tns.org/object/2026yoo) · [AAVSO VSX](https://vsx.aavso.org/index.php?view=detail.top&oid=10875983) |
 
 <table width="100%">
@@ -149,7 +147,7 @@ Source: [Xingming Observatory / XOSS](https://xjltp.china-vo.org/psp26n.html)
 | --- | --- |
 | Discovery date | 2026-08-19 |
 | Coordinates (J2000) | 20:03:13.28 +14:10:23.8 |
-| Classification | UG (as recorded by AAVSO VSX) |
+| Classification | UG |
 | Public records | [TNS 2026zgy](https://www.wis-tns.org/object/2026zgy) · [AAVSO VSX](https://vsx.aavso.org/index.php?view=detail.top&oid=10875987) |
 
 <table width="100%">
@@ -237,10 +235,10 @@ Public NADC report covering this discovery (together with SN 2026zkk):
 | Coordinates (J2000) | 03:02:00.15 +41:35:36.19 |
 | Classification | BY+UV |
 | Period | 51.2 d |
-| Public records | — (not yet catalogued) |
+| Public records | [AAVSO VSX](https://vsx.aavso.org/index.php?view=detail.top&oid=10876516) |
 
-ZTF public data show a variability signal at 51.2 d, recorded here as a combined BY Dra + UV Cet
-type variable (BY+UV). The object is not yet catalogued in AAVSO VSX.
+ZTF public data show a variability signal at 51.2 d, classified as a combined BY Dra + UV Cet
+type variable (BY+UV).
 
 <table width="100%">
 <tr>
@@ -263,10 +261,10 @@ type variable (BY+UV). The object is not yet catalogued in AAVSO VSX.
 | --- | --- |
 | Discovery date | 2026-09-13 |
 | Coordinates (J2000) | 03:23:26.13 +42:48:28.2 |
-| Classification | UGSS (as recorded by AAVSO VSX) |
+| Classification | UGSS |
 | Public records | [TNS 2026abmx](https://www.wis-tns.org/object/2026abmx) · [AAVSO VSX](https://vsx.aavso.org/index.php?view=detail.top&oid=10876035) |
 
-AAVSO VSX records this object as `UGSS`, with a magnitude range of 18.6 – 21.3 g.
+Magnitude range: 18.6 – 21.3 g.
 
 <table width="100%">
 <tr>
@@ -317,10 +315,10 @@ Source: [Xingming Observatory / XOSS](https://xjltp.china-vo.org/psp26v.html)
 | --- | --- |
 | Discovery date | 2026-10-08 |
 | Coordinates (J2000) | 00:38:14.97 +41:14:47.3 |
-| Classification | UV (as recorded by AAVSO VSX) |
+| Classification | UV |
 | Public records | [CBAT-TOCP TCP J00381501+4114472](http://www.cbat.eps.harvard.edu/unconf/followups/J00381501+4114472.html) · [AAVSO VSX](https://vsx.aavso.org/index.php?view=detail.top&oid=10876454) |
 
-AAVSO VSX records this object as `UV`, with a magnitude range of 17.7 CV – 20.8 r.
+Magnitude range: 17.7 CV – 20.8 r.
 
 <table width="100%">
 <tr>
@@ -345,13 +343,12 @@ Source: [Xingming Observatory / XOSS](https://xjltp.china-vo.org/psp26x.html)
 | --- | --- |
 | Discovery date | 2026-10-17 |
 | Coordinates (J2000) | 04:57:32.08 +30:15:41.6 |
-| Classification | AGN\|CV (as recorded by AAVSO VSX; reported as a cataclysmic variable candidate) |
+| Classification | AGN\|CV |
 | Magnitude range | 18.2 – 20.8 g |
 | Other names | TCP J04573208+3015416 |
 | Public records | [TNS 2026afrh](https://www.wis-tns.org/object/2026afrh) · [AAVSO VSX](https://vsx.aavso.org/index.php?view=detail.top&oid=10876479) · [CBAT-TOCP TCP J04573208+3015416](http://www.cbat.eps.harvard.edu/unconf/followups/J04573208+3015416.html) |
 
-AAVSO VSX records this object as `AGN|CV` (an AGN/CV composite), with a magnitude range of
-18.2 – 20.8 g; it was reported as a cataclysmic variable candidate at discovery magnitude 18.21 CV.
+Magnitude range: 18.2 – 20.8 g; discovery magnitude 18.21 CV.
 
 <table width="100%">
 <tr>
@@ -375,6 +372,6 @@ Source: [Xingming Observatory / XOSS](https://xjltp.china-vo.org/psp26z.html)
 | Source | Coverage |
 | --- | --- |
 | [Transient Name Server (TNS)](https://www.wis-tns.org/) | Object registration, reporting, and classification records for all objects above |
-| [AAVSO International Variable Star Index (VSX)](https://vsx.aavso.org/) | Variable-star records for AT 2026rej, AT 2026yoo, AT 2026zgy, AT 2026abmx, TCP J00381501+4114472, TCP J04573208+3015416 and PSPV 37 |
+| [AAVSO International Variable Star Index (VSX)](https://vsx.aavso.org/) | Variable-star records for AT 2026rej, AT 2026yoo, AT 2026zgy, AT 2026abmx, TCP J00381501+4114472, TCP J04573208+3015416, PSPV 37 and PSPV 38 |
 | [National Astronomical Data Center (NADC)](https://nadc.china-vo.org/) | Official public reports listed above |
 | [Xingming Observatory / XOSS](https://xjltp.china-vo.org/) | Discovery and reference images listed above |

@@ -15,7 +15,7 @@ SCANN 各发现天体的正式发现图与公开数据库记录。汇总表见 [
 | 发现日期 | 天体 | 坐标 (J2000) | 分类 | 项目编号 |
 | --- | --- | --- | --- | --- |
 | 2026-03-16 | SN 2026fsf | 11:54:58.107 +69:19:29.22 | SN II | PSP26I |
-| 2026-07-02 | AT 2026rej | 22:50:47.36 +10:44:06.8 | 见公开记录 | PSP26L |
+| 2026-07-02 | AT 2026rej | 22:50:47.36 +10:44:06.8 | SN\|UG | PSP26L |
 | 2026-08-03 | PSPV 37 | 02:06:32.80 +41:10:49.5 | ROT | PSPV 37 |
 | 2026-08-11 | AT 2026yoo | 02:26:32.49 +31:56:15.6 | UG | PSP26N |
 | 2026-08-19 | AT 2026zgy | 20:03:13.28 +14:10:23.8 | UG | PSP26O |
@@ -65,10 +65,8 @@ SCANN 各发现天体的正式发现图与公开数据库记录。汇总表见 [
 | --- | --- |
 | 发现日期 | 2026-07-02 |
 | 坐标 (J2000) | 22:50:47.36 +10:44:06.8 |
-| 分类 | 见公开记录 |
+| 分类 | SN\|UG |
 | 公开记录 | [TNS 2026rej](https://www.wis-tns.org/object/2026rej) · [AAVSO VSX](https://vsx.aavso.org/index.php?view=detail.top&oid=10875928) |
-
-该天体的公开条目没有给出唯一分类，请以 TNS 与 VSX 记录为准。
 
 <table width="100%">
 <tr>
@@ -93,13 +91,13 @@ SCANN 各发现天体的正式发现图与公开数据库记录。汇总表见 [
 | --- | --- |
 | 发现日期 | 2026-08-03 |
 | 坐标 (J2000) | 02:06:32.80 +41:10:49.5 |
-| 分类 | ROT（按 AAVSO VSX 记录） |
+| 分类 | ROT |
 | 其他名称 | ZTF J020632.81+411049.5 · 2MASS J02063280+4110495 · Gaia DR3 345371858010009728 |
 | 周期 | 7.579 d |
 | 公开记录 | [AAVSO VSX](https://vsx.aavso.org/index.php?view=detail.top&oid=10876440) |
 
 ZTF 公开数据（g / i 两波段，768 个测光点，基线 7.38 年）在 7.58 d 处给出显著长周期信号，
-各观测季之间存在相位漂移，符合自转型（ROT）特征。VSX 记录其光谱型为 G，星等范围 17.40 – 17.67 r。
+各观测季之间存在相位漂移，符合自转型（ROT）特征。光谱型为 G，星等范围 17.40 – 17.67 r。
 
 <table width="100%">
 <tr>
@@ -122,7 +120,7 @@ ZTF 公开数据（g / i 两波段，768 个测光点，基线 7.38 年）在 7.
 | --- | --- |
 | 发现日期 | 2026-08-11 |
 | 坐标 (J2000) | 02:26:32.49 +31:56:15.6 |
-| 分类 | UG（按 AAVSO VSX 记录） |
+| 分类 | UG |
 | 公开记录 | [TNS 2026yoo](https://www.wis-tns.org/object/2026yoo) · [AAVSO VSX](https://vsx.aavso.org/index.php?view=detail.top&oid=10875983) |
 
 <table width="100%">
@@ -148,7 +146,7 @@ ZTF 公开数据（g / i 两波段，768 个测光点，基线 7.38 年）在 7.
 | --- | --- |
 | 发现日期 | 2026-08-19 |
 | 坐标 (J2000) | 20:03:13.28 +14:10:23.8 |
-| 分类 | UG（按 AAVSO VSX 记录） |
+| 分类 | UG |
 | 公开记录 | [TNS 2026zgy](https://www.wis-tns.org/object/2026zgy) · [AAVSO VSX](https://vsx.aavso.org/index.php?view=detail.top&oid=10875987) |
 
 <table width="100%">
@@ -236,10 +234,9 @@ ZTF 公开数据（g / i 两波段，768 个测光点，基线 7.38 年）在 7.
 | 坐标 (J2000) | 03:02:00.15 +41:35:36.19 |
 | 分类 | BY+UV |
 | 周期 | 51.2 d |
-| 公开记录 | —（尚未收录） |
+| 公开记录 | [AAVSO VSX](https://vsx.aavso.org/index.php?view=detail.top&oid=10876516) |
 
-ZTF 公开数据在 51.2 d 处给出光变信号，按 BY Dra + UV Cet 型复合变星（BY+UV）记录。
-该天体尚未被 AAVSO VSX 收录。
+ZTF 公开数据在 51.2 d 处给出光变信号，分类为 BY Dra + UV Cet 型复合变星（BY+UV）。
 
 <table width="100%">
 <tr>
@@ -262,10 +259,10 @@ ZTF 公开数据在 51.2 d 处给出光变信号，按 BY Dra + UV Cet 型复合
 | --- | --- |
 | 发现日期 | 2026-09-13 |
 | 坐标 (J2000) | 03:23:26.13 +42:48:28.2 |
-| 分类 | UGSS（按 AAVSO VSX 记录） |
+| 分类 | UGSS |
 | 公开记录 | [TNS 2026abmx](https://www.wis-tns.org/object/2026abmx) · [AAVSO VSX](https://vsx.aavso.org/index.php?view=detail.top&oid=10876035) |
 
-AAVSO VSX 将该天体记录为 `UGSS`，星等范围 18.6 – 21.3 g。
+星等范围 18.6 – 21.3 g。
 
 <table width="100%">
 <tr>
@@ -316,10 +313,10 @@ AAVSO VSX 将该天体记录为 `UGSS`，星等范围 18.6 – 21.3 g。
 | --- | --- |
 | 发现日期 | 2026-10-08 |
 | 坐标 (J2000) | 00:38:14.97 +41:14:47.3 |
-| 分类 | UV（按 AAVSO VSX 记录） |
+| 分类 | UV |
 | 公开记录 | [CBAT-TOCP TCP J00381501+4114472](http://www.cbat.eps.harvard.edu/unconf/followups/J00381501+4114472.html) · [AAVSO VSX](https://vsx.aavso.org/index.php?view=detail.top&oid=10876454) |
 
-AAVSO VSX 将该天体记录为 `UV`，星等范围 17.7 CV – 20.8 r。
+星等范围 17.7 CV – 20.8 r。
 
 <table width="100%">
 <tr>
@@ -344,13 +341,12 @@ AAVSO VSX 将该天体记录为 `UV`，星等范围 17.7 CV – 20.8 r。
 | --- | --- |
 | 发现日期 | 2026-10-17 |
 | 坐标 (J2000) | 04:57:32.08 +30:15:41.6 |
-| 分类 | AGN\|CV（按 AAVSO VSX 记录；上报时为 cataclysmic variable candidate） |
+| 分类 | AGN\|CV |
 | 星等范围 | 18.2 – 20.8 g |
 | 其他名称 | TCP J04573208+3015416 |
 | 公开记录 | [TNS 2026afrh](https://www.wis-tns.org/object/2026afrh) · [AAVSO VSX](https://vsx.aavso.org/index.php?view=detail.top&oid=10876479) · [CBAT-TOCP TCP J04573208+3015416](http://www.cbat.eps.harvard.edu/unconf/followups/J04573208+3015416.html) |
 
-AAVSO VSX 将该天体记录为 `AGN|CV`（活动星系核/激变变星复合型），星等范围 18.2 – 20.8 g；
-星明上报时分类为 cataclysmic variable candidate，发现星等 18.21 CV。
+星等范围 18.2 – 20.8 g；发现星等 18.21 CV。
 
 <table width="100%">
 <tr>
@@ -374,6 +370,6 @@ AAVSO VSX 将该天体记录为 `AGN|CV`（活动星系核/激变变星复合型
 | 来源 | 覆盖内容 |
 | --- | --- |
 | [Transient Name Server (TNS)](https://www.wis-tns.org/) | 上述全部天体的登记、报告与分类记录 |
-| [AAVSO International Variable Star Index (VSX)](https://vsx.aavso.org/) | AT 2026rej、AT 2026yoo、AT 2026zgy、AT 2026abmx、TCP J00381501+4114472、TCP J04573208+3015416 与 PSPV 37 的变星记录 |
+| [AAVSO International Variable Star Index (VSX)](https://vsx.aavso.org/) | AT 2026rej、AT 2026yoo、AT 2026zgy、AT 2026abmx、TCP J00381501+4114472、TCP J04573208+3015416、PSPV 37 与 PSPV 38 的变星记录 |
 | [国家天文科学数据中心 (NADC)](https://nadc.china-vo.org/) | 上列官方公开报道 |
 | [星明天文台 / XOSS](https://xjltp.china-vo.org/) | 上列发现图与参考图 |
