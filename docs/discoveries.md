@@ -25,6 +25,7 @@ SCANN 各发现天体的正式发现图与公开数据库记录。汇总表见 [
 | 2026-09-13 | AT 2026abmx | 03:23:26.13 +42:48:28.2 | UGSS | PSP26T |
 | 2026-09-28 | AT 2026adcx | 08:38:23.48 +70:03:07.7 | SN 候选体 | PSP26V |
 | 2026-10-08 | TCP J00381501+4114472 | 00:38:14.97 +41:14:47.3 | UV | PSP26X |
+| 2026-10-17 | AT 2026afrh | 04:57:32.08 +30:15:41.6 | AGN\|CV | PSP26Z |
 
 ---
 
@@ -337,11 +338,42 @@ AAVSO VSX 将该天体记录为 `UV`，星等范围 17.7 CV – 20.8 r。
 
 ---
 
+## AT 2026afrh — PSP26Z
+
+|  |  |
+| --- | --- |
+| 发现日期 | 2026-10-17 |
+| 坐标 (J2000) | 04:57:32.08 +30:15:41.6 |
+| 分类 | AGN\|CV（按 AAVSO VSX 记录；上报时为 cataclysmic variable candidate） |
+| 星等范围 | 18.2 – 20.8 g |
+| 其他名称 | TCP J04573208+3015416 |
+| 公开记录 | [TNS 2026afrh](https://www.wis-tns.org/object/2026afrh) · [AAVSO VSX](https://vsx.aavso.org/index.php?view=detail.top&oid=10876479) · [CBAT-TOCP TCP J04573208+3015416](http://www.cbat.eps.harvard.edu/unconf/followups/J04573208+3015416.html) |
+
+AAVSO VSX 将该天体记录为 `AGN|CV`（活动星系核/激变变星复合型），星等范围 18.2 – 20.8 g；
+星明上报时分类为 cataclysmic variable candidate，发现星等 18.21 CV。
+
+<table width="100%">
+<tr>
+<td width="50%" align="center">
+<img src="../assets/discoveries/psp26z-discovery.jpg" width="100%"><br>
+<sub>发现图</sub>
+</td>
+<td width="50%" align="center">
+<img src="../assets/discoveries/psp26z-reference.jpg" width="100%"><br>
+<sub>Pan-STARRS1 参考图</sub>
+</td>
+</tr>
+</table>
+
+来源：[星明天文台 / XOSS](https://xjltp.china-vo.org/psp26z.html)
+
+---
+
 ## 公开参考来源
 
 | 来源 | 覆盖内容 |
 | --- | --- |
 | [Transient Name Server (TNS)](https://www.wis-tns.org/) | 上述全部天体的登记、报告与分类记录 |
-| [AAVSO International Variable Star Index (VSX)](https://vsx.aavso.org/) | AT 2026rej、AT 2026yoo、AT 2026zgy、AT 2026abmx、TCP J00381501+4114472 与 PSPV 37 的变星记录 |
+| [AAVSO International Variable Star Index (VSX)](https://vsx.aavso.org/) | AT 2026rej、AT 2026yoo、AT 2026zgy、AT 2026abmx、TCP J00381501+4114472、TCP J04573208+3015416 与 PSPV 37 的变星记录 |
 | [国家天文科学数据中心 (NADC)](https://nadc.china-vo.org/) | 上列官方公开报道 |
 | [星明天文台 / XOSS](https://xjltp.china-vo.org/) | 上列发现图与参考图 |

@@ -54,6 +54,7 @@ SCANN 是一个独立运行的天文瞬变源搜索团队，主要处理星明�
 | 2026-09-13 | AT 2026abmx | 03:23:26.13 +42:48:28.2 | UGSS | PSP26T | [TNS](https://www.wis-tns.org/object/2026abmx) · [VSX](https://vsx.aavso.org/index.php?view=detail.top&oid=10876035) |
 | 2026-09-28 | AT 2026adcx | 08:38:23.48 +70:03:07.7 | SN 候选体 | PSP26V | [TNS](https://www.wis-tns.org/object/2026adcx) |
 | 2026-10-08 | TCP J00381501+4114472 | 00:38:14.97 +41:14:47.3 | UV | PSP26X | [VSX](https://vsx.aavso.org/index.php?view=detail.top&oid=10876454) |
+| 2026-10-17 | AT 2026afrh | 04:57:32.08 +30:15:41.6 | AGN\|CV | PSP26Z | [TNS](https://www.wis-tns.org/object/2026afrh) · [VSX](https://vsx.aavso.org/index.php?view=detail.top&oid=10876479) |
 
 正式发现图与公开记录见 **[完整发现档案](docs/discoveries.md)**。
 

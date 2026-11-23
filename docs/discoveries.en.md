@@ -25,6 +25,7 @@ Discovery and reference images shown below are reproduced from the corresponding
 | 2026-09-13 | AT 2026abmx | 03:23:26.13 +42:48:28.2 | UGSS | PSP26T |
 | 2026-09-28 | AT 2026adcx | 08:38:23.48 +70:03:07.7 | SN candidate | PSP26V |
 | 2026-10-08 | TCP J00381501+4114472 | 00:38:14.97 +41:14:47.3 | UV | PSP26X |
+| 2026-10-17 | AT 2026afrh | 04:57:32.08 +30:15:41.6 | AGN\|CV | PSP26Z |
 
 ---
 
@@ -338,11 +339,42 @@ Source: [Xingming Observatory / XOSS](https://xjltp.china-vo.org/psp26x.html)
 
 ---
 
+## AT 2026afrh — PSP26Z
+
+|  |  |
+| --- | --- |
+| Discovery date | 2026-10-17 |
+| Coordinates (J2000) | 04:57:32.08 +30:15:41.6 |
+| Classification | AGN\|CV (as recorded by AAVSO VSX; reported as a cataclysmic variable candidate) |
+| Magnitude range | 18.2 – 20.8 g |
+| Other names | TCP J04573208+3015416 |
+| Public records | [TNS 2026afrh](https://www.wis-tns.org/object/2026afrh) · [AAVSO VSX](https://vsx.aavso.org/index.php?view=detail.top&oid=10876479) · [CBAT-TOCP TCP J04573208+3015416](http://www.cbat.eps.harvard.edu/unconf/followups/J04573208+3015416.html) |
+
+AAVSO VSX records this object as `AGN|CV` (an AGN/CV composite), with a magnitude range of
+18.2 – 20.8 g; it was reported as a cataclysmic variable candidate at discovery magnitude 18.21 CV.
+
+<table width="100%">
+<tr>
+<td width="50%" align="center">
+<img src="../assets/discoveries/psp26z-discovery.jpg" width="100%"><br>
+<sub>Discovery image</sub>
+</td>
+<td width="50%" align="center">
+<img src="../assets/discoveries/psp26z-reference.jpg" width="100%"><br>
+<sub>Pan-STARRS1 reference image</sub>
+</td>
+</tr>
+</table>
+
+Source: [Xingming Observatory / XOSS](https://xjltp.china-vo.org/psp26z.html)
+
+---
+
 ## Public references
 
 | Source | Coverage |
 | --- | --- |
 | [Transient Name Server (TNS)](https://www.wis-tns.org/) | Object registration, reporting, and classification records for all objects above |
-| [AAVSO International Variable Star Index (VSX)](https://vsx.aavso.org/) | Variable-star records for AT 2026rej, AT 2026yoo, AT 2026zgy, AT 2026abmx, TCP J00381501+4114472 and PSPV 37 |
+| [AAVSO International Variable Star Index (VSX)](https://vsx.aavso.org/) | Variable-star records for AT 2026rej, AT 2026yoo, AT 2026zgy, AT 2026abmx, TCP J00381501+4114472, TCP J04573208+3015416 and PSPV 37 |
 | [National Astronomical Data Center (NADC)](https://nadc.china-vo.org/) | Official public reports listed above |
 | [Xingming Observatory / XOSS](https://xjltp.china-vo.org/) | Discovery and reference images listed above |
