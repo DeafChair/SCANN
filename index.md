@@ -1,6 +1,9 @@
 ---
-title: SCANN 巡天发现档案
-description: 星明天文台 SCANN 团队的超新星、激变变星、变星与近地小行星发现。
+title: 概览
+layout: home
+nav_order: 1
+description: "星明天文台 SCANN 团队的超新星、激变变星、变星与近地小行星发现。"
+permalink: /
 ---
 
 SCANN 是星明天文台（Xingming Observatory）的巡天与瞬变源搜索团队，使用 PSP / XOSS
@@ -18,7 +21,3 @@ SCANN 是星明天文台（Xingming Observatory）的巡天与瞬变源搜索团
 - [星明天文台 / XOSS](https://xjltp.china-vo.org/)
 - [Transient Name Server (TNS)](https://www.wis-tns.org/)
 - [AAVSO VSX](https://vsx.aavso.org/)
-
----
-
-发现图与参考图来自对应的星明天文台 / XOSS 公开目标页面；分类与公开记录以 TNS、VSX 为准。

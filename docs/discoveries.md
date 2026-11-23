@@ -1,10 +1,10 @@
 ---
-title: SCANN 发现成果
+title: 发现档案
+layout: default
+nav_order: 2
 ---
 
-# 发现成果
-
-SCANN 各发现天体的正式发现图与公开数据库记录。返回[首页](../)。
+SCANN 各发现天体的正式发现图与公开数据库记录。
 
 <p align="center">
   <b>简体中文</b> · <a href="https://deafchair.github.io/SCANN/docs/discoveries.en.html">English</a>

@@ -1,6 +1,20 @@
 title: SCANN
 description: 星明天文台 SCANN 巡天发现档案
+
+remote_theme: just-the-docs/just-the-docs@v0.12.0
+
+color_scheme: dark
+search_enabled: true
+heading_anchors: 3
+
 url: https://deafchair.github.io
 baseurl: /SCANN
-theme: jekyll-theme-cayman
-lang: zh-CN
+
+logo: /assets/scann-logo.png
+
+aux_links:
+  "GitHub":
+    - https://github.com/DeafChair/SCANN
+aux_links_new_tab: true
+
+footer_content: '发现图与参考图来自星明天文台 / XOSS 公开页面；分类与公开记录以 TNS、VSX 为准。'

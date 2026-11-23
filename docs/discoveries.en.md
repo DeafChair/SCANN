@@ -1,10 +1,10 @@
 ---
-title: SCANN Discoveries
+title: Discoveries (English)
+layout: default
+nav_order: 3
 ---
 
-# Discoveries
-
-Official discovery images and public database records for each of SCANN's reported discoveries. Back to the [home page](../).
+Official discovery images and public database records for each of SCANN's reported discoveries.
 
 <p align="center">
   <a href="https://deafchair.github.io/SCANN/docs/discoveries.html">简体中文</a> · <b>English</b>
