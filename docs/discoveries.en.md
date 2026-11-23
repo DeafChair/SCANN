@@ -1,9 +1,13 @@
+---
+title: SCANN Discoveries
+---
+
 # Discoveries
 
-Official discovery images and public database records for each of SCANN's reported discoveries. A summary table is in the [README](../README.en.md).
+Official discovery images and public database records for each of SCANN's reported discoveries. Back to the [home page](../).
 
 <p align="center">
-  <a href="discoveries.md">简体中文</a> · <b>English</b>
+  <a href="https://deafchair.github.io/SCANN/docs/discoveries.html">简体中文</a> · <b>English</b>
 </p>
 
 Discovery and reference images shown below are reproduced from the corresponding public Xingming Observatory / XOSS object pages.

@@ -1,9 +1,13 @@
+---
+title: SCANN 发现成果
+---
+
 # 发现成果
 
-SCANN 各发现天体的正式发现图与公开数据库记录。汇总表见 [README](../README.md)。
+SCANN 各发现天体的正式发现图与公开数据库记录。返回[首页](../)。
 
 <p align="center">
-  <b>简体中文</b> · <a href="discoveries.en.md">English</a>
+  <b>简体中文</b> · <a href="https://deafchair.github.io/SCANN/docs/discoveries.en.html">English</a>
 </p>
 
 下列发现图与参考图来自对应的星明天文台 / XOSS 公开目标页面。
