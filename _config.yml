@@ -3,6 +3,10 @@ description: 星明天文台 SCANN 巡天发现档案
 
 remote_theme: just-the-docs/just-the-docs@v0.12.0
 
+plugins:
+  - jekyll-seo-tag
+  - jekyll-include-cache
+
 color_scheme: dark
 search_enabled: true
 heading_anchors: 3
