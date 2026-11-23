@@ -1,14 +1,15 @@
 ---
 title: 发现档案
-layout: default
-nav_order: 2
+layout: minimal
 ---
 
-SCANN 各发现天体的正式发现图与公开数据库记录。
+# 发现档案
 
 <p align="center">
-  <b>简体中文</b> · <a href="https://deafchair.github.io/SCANN/docs/discoveries.en.html">English</a>
+  <a href="../">首页</a> · <b>简体中文</b> · <a href="https://deafchair.github.io/SCANN/docs/discoveries.en.html">English</a>
 </p>
+
+SCANN 各发现天体的正式发现图与公开数据库记录。
 
 下列发现图与参考图来自对应的星明天文台 / XOSS 公开目标页面。
 

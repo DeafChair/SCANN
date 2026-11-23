@@ -9,13 +9,11 @@ plugins:
   - jekyll-include-cache
 
 color_scheme: dark
-search_enabled: true
-heading_anchors: 3
+search_enabled: false
+heading_anchors: 2
 
 url: https://deafchair.github.io
 baseurl: /SCANN
-
-logo: /assets/scann-logo.png
 
 aux_links:
   "GitHub":

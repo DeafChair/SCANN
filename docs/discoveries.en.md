@@ -1,14 +1,15 @@
 ---
 title: Discoveries (English)
-layout: default
-nav_order: 3
+layout: minimal
 ---
 
-Official discovery images and public database records for each of SCANN's reported discoveries.
+# Discoveries
 
 <p align="center">
-  <a href="https://deafchair.github.io/SCANN/docs/discoveries.html">简体中文</a> · <b>English</b>
+  <a href="../">Home</a> · <a href="https://deafchair.github.io/SCANN/docs/discoveries.html">简体中文</a> · <b>English</b>
 </p>
+
+Official discovery images and public database records for each of SCANN's reported discoveries.
 
 Discovery and reference images shown below are reproduced from the corresponding public Xingming Observatory / XOSS object pages.
 

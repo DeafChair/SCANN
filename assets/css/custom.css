@@ -1,0 +1,49 @@
+.main,
+.main-content-wrap {
+  max-width: 72rem;
+}
+
+.hero {
+  text-align: center;
+  margin: 2.5rem 0 3rem;
+}
+
+.hero img {
+  width: min(320px, 70vw);
+  height: auto;
+}
+
+.hero h1 {
+  font-size: 2.75rem;
+  letter-spacing: 0.04em;
+  margin: 1rem 0 0.25rem;
+  border-bottom: none;
+}
+
+.hero .tagline {
+  color: #b3b3b3;
+  font-size: 1.05rem;
+  line-height: 1.7;
+  margin: 0.5rem 0 1.5rem;
+}
+
+.hero .actions a {
+  display: inline-block;
+  margin: 0.25rem 0.35rem;
+  padding: 0.55rem 0.95rem;
+  border: 1px solid #44434d;
+  border-radius: 6px;
+  text-decoration: none;
+}
+
+.hero .actions a:hover {
+  border-color: #7253ed;
+}
+
+.main-content table {
+  width: 100%;
+}
+
+.main-content img {
+  border-radius: 6px;
+}
